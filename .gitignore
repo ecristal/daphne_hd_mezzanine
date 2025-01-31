@@ -1,0 +1,14 @@
+# Ignored folders
+History/
+"Project Logs for DMEM_Mezzanine"/
+__Previews/
+# Ignored extensions
+*.zip
+*.log
+*.lck
+*.tmp
+*.xml
+*auto*
+
+# ignoring cache
+*-cache
