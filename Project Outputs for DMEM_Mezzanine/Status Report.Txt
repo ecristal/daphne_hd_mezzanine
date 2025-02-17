@@ -1,0 +1,10 @@
+Output: Generates pick and place files
+Type  : Pick Place
+From  : Variant [[No Variations]] of Project [DMEM_Mezzanine.PrjPcb]
+   Generated File[Pick Place for PCB_DMEM_Mezzanine.csv]
+
+
+Files Generated   : 1
+Documents Printed : 0
+
+Finished Output Generation At 16:40:09 On 10/2/2025
