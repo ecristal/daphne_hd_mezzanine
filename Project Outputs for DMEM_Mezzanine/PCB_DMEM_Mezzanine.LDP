@@ -1,2 +1,2 @@
 Layer Pairs Export File for PCB: C:\Users\e_cri\OneDrive\Documents\INFN\DMEM\Mezzanine\altium\DMEM_Mezzanine\PCB_DMEM_Mezzanine.PcbDoc
-LayersSetName=Top_Bot_Thru_Holes|DrillFile=pcb_dmem_mezzanine.txt|DrillLayers=gtl,g1,g2,gbl
+LayersSetName=Top_Bot_Thru_Holes|DrillFile=pcb_dmem_mezzanine.txt|DrillLayers=gtl,g1,g2,g3,g4,gbl

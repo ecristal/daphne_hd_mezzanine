@@ -4,18 +4,36 @@ C:\Users\e_cri\OneDrive\Documents\INFN\DMEM\Mezzanine\altium\DMEM_Mezzanine\Proj
 ========================================================================================================================
 File Design Information:
 
-Date:       10/02/25
-Time:       16:40
-Revision:   4071816f4acb519874b677246f5e51c38416cafb
+Date:       19/02/25
+Time:       11:10
+Revision:   73a9d7ea34eaed75eb23f157d1f04a88c7c38c42
 Variant:    No variations
 Units used: mm
 
 "Designator","Comment","Layer","Footprint","Center-X(mm)","Center-Y(mm)","Rotation","Description"
+"U8","INA232AIDDFR","BottomLayer","SOT_32AIDDFR_TEX","43.9420","41.5290","270","Current Monitor Regulator High/Low-Side TSOT-23-8"
+"U7","INA232AIDDFR","TopLayer","SOT_32AIDDFR_TEX","44.7040","44.0690","270","Current Monitor Regulator High/Low-Side TSOT-23-8"
+"U6","SN74LVC1G08DCKR","BottomLayer","DCK5","41.7830","48.0060","90","AND Gate IC 1 Channel SC-70-5"
+"U5","SN74LVC1G08DCKR","TopLayer","DCK5","39.8780","47.3710","90","AND Gate IC 1 Channel SC-70-5"
+"R49","RC0603FR-0710KL","BottomLayer","RESC1608X55N","42.0370","38.7350","0","10 kOhms ±1% 0.1W, 1/10W Chip Resistor 0603 (1608 Metric) Moisture Resistant Thick Film"
+"R48","RC0603FR-0710KL","TopLayer","RESC1608X55N","43.1800","41.0210","0","10 kOhms ±1% 0.1W, 1/10W Chip Resistor 0603 (1608 Metric) Moisture Resistant Thick Film"
+"R47","RC0603FR-0710KL","BottomLayer","RESC1608X55N","41.4450","41.3976","90","10 kOhms ±1% 0.1W, 1/10W Chip Resistor 0603 (1608 Metric) Moisture Resistant Thick Film"
+"R46","RC0603FR-0710KL","TopLayer","RESC1608X55N","46.4820","41.0210","0","10 kOhms ±1% 0.1W, 1/10W Chip Resistor 0603 (1608 Metric) Moisture Resistant Thick Film"
+"R45","RMCF0603ZT0R00","TopLayer","RESC1608X55N","45.4660","47.2440","0","0 Ohms Jumper Chip Resistor 0603 (1608 Metric) Automotive AEC-Q200 Thick Film"
+"R44","RMCF0603ZT0R00","BottomLayer","RESC1608X55N","43.3070","44.3230","180","0 Ohms Jumper Chip Resistor 0603 (1608 Metric) Automotive AEC-Q200 Thick Film"
+"R43","RC0603FR-0710KL","TopLayer","RESC1608X55N","19.6850","65.9130","270","10 kOhms ±1% 0.1W, 1/10W Chip Resistor 0603 (1608 Metric) Moisture Resistant Thick Film"
+"R42","RC0603FR-0710KL","TopLayer","RESC1608X55N","17.9070","65.9130","270","10 kOhms ±1% 0.1W, 1/10W Chip Resistor 0603 (1608 Metric) Moisture Resistant Thick Film"
+"C36","CC0603KRX7R0BB104","TopLayer","CAPC1608X09N","42.1970","46.1733","270","0.1 µF ±10% 100V Ceramic Capacitor X7R 0603 (1608 Metric)"
+"C35","CC0603KRX7R0BB104","BottomLayer","CAPC1608X09N","46.4820","42.0370","90","0.1 µF ±10% 100V Ceramic Capacitor X7R 0603 (1608 Metric)"
+"C18","CC0603KRX7R0BB104","BottomLayer","CAPC1608X09N","43.2135","50.8935","0","0.1 µF ±10% 100V Ceramic Capacitor X7R 0603 (1608 Metric)"
+"C17","CC0603KRX7R0BB104","TopLayer","CAPC1608X09N","40.0050","50.2920","0","0.1 µF ±10% 100V Ceramic Capacitor X7R 0603 (1608 Metric)"
+"C8","CC0603KRX7R0BB104","TopLayer","CAPC1608X09N","21.4630","64.7700","270","0.1 µF ±10% 100V Ceramic Capacitor X7R 0603 (1608 Metric)"
+"C7","C3216X6S2A106K160AC","TopLayer","CAPC3216X190N","23.4950","65.1510","90","10 µF ±10% 100V Ceramic Capacitor X6S 1206 (3216 Metric)"
 "TP7","testPoint_throughHole","TopLayer","testPoint_ThroughHole","54.1020","61.7220","90",""
-"TP6","testPoint_throughHole","TopLayer","testPoint_ThroughHole","41.2750","41.2750","90",""
-"TP5","testPoint_throughHole","TopLayer","testPoint_ThroughHole","39.7510","41.2750","90",""
+"TP6","testPoint_throughHole","TopLayer","testPoint_ThroughHole","37.0840","40.7670","90",""
+"TP5","testPoint_throughHole","TopLayer","testPoint_ThroughHole","38.3032","40.7670","90",""
 "TP4_H","testPoint","TopLayer","testPoint_pad","41.9100","78.1050","90",""
-"TP4_G","testPoint","TopLayer","testPoint_pad","20.7010","66.5480","180",""
+"TP4_G","testPoint","TopLayer","testPoint_pad","21.7468","67.5749","180",""
 "TP4_F","testPoint","TopLayer","testPoint_pad","2.0320","78.1050","90",""
 "TP4_E","testPoint","TopLayer","testPoint_pad","25.1460","56.3880","90",""
 "TP4_D","testPoint","TopLayer","testPoint_pad","41.2750","36.5760","90",""
@@ -50,12 +68,12 @@ Units used: mm
 "U2_C","ADA4896-2ARMZ","BottomLayer","ADI-RM-8_N","28.6210","28.5170","90","Double Channel Low Wide Band Noise Operational Amplifier, 230 MHz BW, 120 V/us SR, Industrial, 8-pin SOP (RM-8), Tube"
 "C33","CC0603KRX7R0BB104","BottomLayer","CAPC1608X09N","22.4790","9.6520","0","0.1 µF ±10% 100V Ceramic Capacitor X7R 0603 (1608 Metric)"
 "C34","CC0603KRX7R0BB104","BottomLayer","CAPC1608X09N","26.1620","16.6370","180","0.1 µF ±10% 100V Ceramic Capacitor X7R 0603 (1608 Metric)"
-"R41","CR0603-FX-4990ELF","TopLayer","RESC1608X55N","54.1250","57.8000","270","499 Ohms ±1% 0.1W, 1/10W Chip Resistor 0603 (1608 Metric) Moisture Resistant Thick Film"
-"R36","CR0603-FX-4990ELF","TopLayer","RESC1608X55N","44.8310","41.2750","90","499 Ohms ±1% 0.1W, 1/10W Chip Resistor 0603 (1608 Metric) Moisture Resistant Thick Film"
-"R35","CR0603-FX-4990ELF","TopLayer","RESC1608X55N","46.6090","41.2750","90","499 Ohms ±1% 0.1W, 1/10W Chip Resistor 0603 (1608 Metric) Moisture Resistant Thick Film"
+"R41","RT0603BRD071KL","TopLayer","RESC1608X55N","54.1250","57.8000","270","1 kOhms ±0.1% 0.1W, 1/10W Chip Resistor 0603 (1608 Metric) Thin Film"
+"R36","RT0603BRD071KL","TopLayer","RESC1608X55N","50.8486","38.7437","270","1 kOhms ±0.1% 0.1W, 1/10W Chip Resistor 0603 (1608 Metric) Thin Film"
+"R35","RT0603BRD071KL","TopLayer","RESC1608X55N","55.2936","38.7911","270","1 kOhms ±0.1% 0.1W, 1/10W Chip Resistor 0603 (1608 Metric) Thin Film"
 "D3","150060RS75000","TopLayer","WL-SMCW_0603_150060xx75000","52.6794","57.7185","90","WL-SMCW Mono-color Chip LED Waterclear, SMT, size 0603, Red, 2V, 140°"
-"D2","150060RS75000","TopLayer","WL-SMCW_0603_150060xx75000","44.8310","44.5770","90","WL-SMCW Mono-color Chip LED Waterclear, SMT, size 0603, Red, 2V, 140°"
-"D1","150060RS75000","TopLayer","WL-SMCW_0603_150060xx75000","46.6090","44.5770","90","WL-SMCW Mono-color Chip LED Waterclear, SMT, size 0603, Red, 2V, 140°"
+"D2","150060RS75000","TopLayer","WL-SMCW_0603_150060xx75000","49.4030","38.7350","90","WL-SMCW Mono-color Chip LED Waterclear, SMT, size 0603, Red, 2V, 140°"
+"D1","150060RS75000","TopLayer","WL-SMCW_0603_150060xx75000","53.8480","38.7350","90","WL-SMCW Mono-color Chip LED Waterclear, SMT, size 0603, Red, 2V, 140°"
 "U4","TPS7A9001DSKR","TopLayer","SON50P250X250X80-11N","49.4730","51.2920","0","500-mA, low-noise, high-PSRR, adjustable ultra-low-dropout voltage regulator with high-accuracy 10-SON -40 to 125"
 "U3","TPS7A9001DSKR","BottomLayer","SON50P250X250X80-11N","49.5300","55.4870","180","500-mA, low-noise, high-PSRR, adjustable ultra-low-dropout voltage regulator with high-accuracy 10-SON -40 to 125"
 "R40","RMCF0603ZT0R00","BottomLayer","RESC1608X55N","15.3670","13.0810","180","0 Ohms Jumper Chip Resistor 0603 (1608 Metric) Automotive AEC-Q200 Thick Film"
@@ -63,11 +81,11 @@ Units used: mm
 "R38","RMCF0603ZT0R00","BottomLayer","RESC1608X55N","41.9100","5.0800","0","0 Ohms Jumper Chip Resistor 0603 (1608 Metric) Automotive AEC-Q200 Thick Film"
 "R37","RMCF0603ZT0R00","BottomLayer","RESC1608X55N","15.3670","5.0800","180","0 Ohms Jumper Chip Resistor 0603 (1608 Metric) Automotive AEC-Q200 Thick Film"
 "R34","RMCF0603ZT0R00","BottomLayer","RESC1608X55N","24.3840","2.6670","270","0 Ohms Jumper Chip Resistor 0603 (1608 Metric) Automotive AEC-Q200 Thick Film"
-"R33","RMCF0603ZT0R00","BottomLayer","RESC1608X55N","26.1620","2.6670","270","0 Ohms Jumper Chip Resistor 0603 (1608 Metric) Automotive AEC-Q200 Thick Film"
+"R33","DNP","BottomLayer","RESC1608X55N","26.1620","2.6670","270","0 Ohms Jumper Chip Resistor 0603 (1608 Metric) Automotive AEC-Q200 Thick Film"
 "R32","RMCF0603ZT0R00","BottomLayer","RESC1608X55N","21.2090","16.6370","180","0 Ohms Jumper Chip Resistor 0603 (1608 Metric) Automotive AEC-Q200 Thick Film"
-"R31","RMCF0603ZT0R00","BottomLayer","RESC1608X55N","16.6370","9.1440","180","0 Ohms Jumper Chip Resistor 0603 (1608 Metric) Automotive AEC-Q200 Thick Film"
-"R30","RMCF0603ZT0R00","BottomLayer","RESC1608X55N","21.7170","1.9050","180","0 Ohms Jumper Chip Resistor 0603 (1608 Metric) Automotive AEC-Q200 Thick Film"
-"R29","RMCF0603ZT0R00","BottomLayer","RESC1608X55N","18.2880","11.8110","270","0 Ohms Jumper Chip Resistor 0603 (1608 Metric) Automotive AEC-Q200 Thick Film"
+"R31","DNP","BottomLayer","RESC1608X55N","16.6370","9.1440","180","0 Ohms Jumper Chip Resistor 0603 (1608 Metric) Automotive AEC-Q200 Thick Film"
+"R30","DNP","BottomLayer","RESC1608X55N","21.7170","1.9050","180","0 Ohms Jumper Chip Resistor 0603 (1608 Metric) Automotive AEC-Q200 Thick Film"
+"R29","DNP","BottomLayer","RESC1608X55N","18.2880","11.8110","270","0 Ohms Jumper Chip Resistor 0603 (1608 Metric) Automotive AEC-Q200 Thick Film"
 "R28","ERJ-3EKF2001V","TopLayer","RESC1608X55N","46.2324","49.7322","90","2 kOhms ±1% 0.1W, 1/10W Chip Resistor 0603 (1608 Metric) Automotive AEC-Q200 Thick Film"
 "R27","RMCF0603FT1K15","BottomLayer","RESC1608X55N","52.7706","54.5268","90","1.15 kOhms ±1% 0.1W, 1/10W Chip Resistor 0603 (1608 Metric) Automotive AEC-Q200 Thick Film"
 "R26","RMCF0603FT10K5","TopLayer","RESC1608X55N","46.2324","52.9667","90","10.5 kOhms ±1% 0.1W, 1/10W Chip Resistor 0603 (1608 Metric) Automotive AEC-Q200 Thick Film"

@@ -1,5 +1,5 @@
 ----------------------------------------------------------------------------------------------------------------------------------
-NCDrill File Report For: PCB_DMEM_Mezzanine.PcbDoc   10/2/2025  16:31:08
+NCDrill File Report For: PCB_DMEM_Mezzanine.PcbDoc   19/2/2025  11:10:06
 ----------------------------------------------------------------------------------------------------------------------------------
 
 Layer Pair : Top Layer to Bottom Layer
@@ -7,14 +7,13 @@ ASCII RoundHoles File : PCB_DMEM_Mezzanine.TXT
 
 Tool       Hole Size               Hole Tolerance               Hole Type       Hole Count   Plated         Tool Travel
 ----------------------------------------------------------------------------------------------------------------------------------
-T1      0.2mm (8mil)                                              Round             8         PTH        7.41mm (0.29inch)
-T2      0.254mm (10mil)                                           Round             269       PTH        886.58mm (34.90inch)
-T3      0.381mm (15mil)                                           Round             3         PTH        25.66mm (1.01inch)
-T4      1.194mm (47mil)                                           Round             30        PTH        103.06mm (4.06inch)
+T1      0.254mm (10mil)                                           Round             566       PTH        1607.94mm (63.30inch)
+T2      0.381mm (15mil)                                           Round             3         PTH        27.46mm (1.08inch)
+T3      1.194mm (47mil)                                           Round             30        PTH        82.46mm (3.25inch)
+T4      3.048mm (120mil)                                          Round             4         PTH        49.33mm (1.94inch)
 T5      3.175mm (125mil)                                          Round             4         PTH        134.62mm (5.30inch)
 T6      0.89mm (35mil)                                            Round             2         NPTH       20.55mm (0.81inch)
-T7      3.048mm (120mil)                                          Round             4         NPTH       49.33mm (1.94inch)
 ----------------------------------------------------------------------------------------------------------------------------------
-Totals                                                                              320
+Totals                                                                              609
 
 Total Processing Time (hh:mm:ss) : 00:00:00
