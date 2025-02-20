@@ -2,173 +2,6 @@
 FileName = PCB_DMEM_Mezzanine.GBR
 AutoAperture = True
 *************************************************************
-Generating : Top Layer
-      File : PCB_DMEM_Mezzanine.GTL
-
-    Adding Layer      : Top Layer
-
-    Adding Layer      : Multi-Layer
-
-
-Used DCodes :
-    D13
-    D15
-    D18
-    D19
-    D20
-    D21
-    D22
-    D23
-    D24
-    D25
-    D26
-    D27
-    D28
-    D29
-    D30
-    D45
-    D48
-    D49
-    D50
-    D51
-    D52
-    D53
-*************************************************************
-
-*************************************************************
-Generating : Layer 2
-      File : PCB_DMEM_Mezzanine.G2
-
-    Adding Layer      : Layer 2
-
-    Adding Layer      : Multi-Layer
-
-
-Used DCodes :
-    D15
-    D28
-    D45
-    D50
-    D51
-    D52
-    D53
-    D55
-*************************************************************
-
-*************************************************************
-Generating : Layer 1
-      File : PCB_DMEM_Mezzanine.G1
-
-    Adding Layer      : Layer 1
-
-    Adding Layer      : Multi-Layer
-
-
-Used DCodes :
-    D15
-    D28
-    D45
-    D51
-    D52
-    D53
-    D54
-    D55
-*************************************************************
-
-*************************************************************
-Generating : Layer 4
-      File : PCB_DMEM_Mezzanine.G4
-
-    Adding Layer      : Layer 4
-
-    Adding Layer      : Multi-Layer
-
-
-Used DCodes :
-    D15
-    D28
-    D45
-    D51
-    D52
-    D53
-    D54
-    D55
-*************************************************************
-
-*************************************************************
-Generating : Bottom Overlay
-      File : PCB_DMEM_Mezzanine.GBO
-
-    Adding Layer      : Bottom Overlay
-
-
-Used DCodes :
-    D10
-    D11
-    D12
-    D13
-    D14
-    D15
-    D16
-*************************************************************
-
-*************************************************************
-Generating : Bottom Layer
-      File : PCB_DMEM_Mezzanine.GBL
-
-    Adding Layer      : Bottom Layer
-
-    Adding Layer      : Multi-Layer
-
-
-Used DCodes :
-    D13
-    D15
-    D18
-    D19
-    D20
-    D21
-    D22
-    D23
-    D25
-    D26
-    D27
-    D28
-    D29
-    D30
-    D45
-    D48
-    D49
-    D50
-    D51
-    D52
-    D53
-    D54
-    D56
-    D57
-*************************************************************
-
-*************************************************************
-Generating : Layer 3
-      File : PCB_DMEM_Mezzanine.G3
-
-    Adding Layer      : Layer 3
-
-    Adding Layer      : Multi-Layer
-
-
-Used DCodes :
-    D15
-    D28
-    D45
-    D50
-    D51
-    D52
-    D53
-    D55
-*************************************************************
-
-*************************************************************
 Generating : Mechanical 1
       File : PCB_DMEM_Mezzanine.GM1
 
@@ -178,40 +11,6 @@ Generating : Mechanical 1
 Used DCodes :
     D14
     D15
-*************************************************************
-
-*************************************************************
-Generating : Bottom Solder
-      File : PCB_DMEM_Mezzanine.GBS
-
-    Adding Layer      : Bottom Solder
-
-    Adding Layer      : Bottom Layer
-
-    Adding Layer      : Multi-Layer
-
-
-Used DCodes :
-    D21
-    D28
-    D31
-    D32
-    D33
-    D34
-    D35
-    D37
-    D38
-    D39
-    D40
-    D41
-    D42
-    D43
-    D44
-    D45
-    D46
-    D47
-    D58
-    D59
 *************************************************************
 
 *************************************************************
@@ -230,48 +29,15 @@ Used DCodes :
     D19
     D20
     D21
-    D22
     D23
+    D24
     D25
-    D26
     D27
+    D28
     D29
     D30
+    D56
     D57
-    D60
-*************************************************************
-
-*************************************************************
-Generating : Top Solder
-      File : PCB_DMEM_Mezzanine.GTS
-
-    Adding Layer      : Top Solder
-
-    Adding Layer      : Top Layer
-
-    Adding Layer      : Multi-Layer
-
-
-Used DCodes :
-    D21
-    D28
-    D31
-    D32
-    D33
-    D34
-    D35
-    D36
-    D37
-    D38
-    D39
-    D40
-    D41
-    D42
-    D43
-    D44
-    D45
-    D46
-    D47
 *************************************************************
 
 *************************************************************
@@ -302,6 +68,89 @@ Used DCodes :
 *************************************************************
 
 *************************************************************
+Generating : Bottom Solder
+      File : PCB_DMEM_Mezzanine.GBS
+
+    Adding Layer      : Bottom Solder
+
+    Adding Layer      : Bottom Layer
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D18
+    D22
+    D31
+    D32
+    D33
+    D34
+    D35
+    D36
+    D37
+    D38
+    D40
+    D41
+    D42
+    D43
+    D44
+    D45
+    D46
+    D47
+    D58
+*************************************************************
+
+*************************************************************
+Generating : Top Solder
+      File : PCB_DMEM_Mezzanine.GTS
+
+    Adding Layer      : Top Solder
+
+    Adding Layer      : Top Layer
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D18
+    D22
+    D31
+    D32
+    D33
+    D34
+    D35
+    D36
+    D37
+    D38
+    D39
+    D40
+    D41
+    D42
+    D43
+    D44
+    D45
+    D46
+    D47
+*************************************************************
+
+*************************************************************
+Generating : Bottom Overlay
+      File : PCB_DMEM_Mezzanine.GBO
+
+    Adding Layer      : Bottom Overlay
+
+
+Used DCodes :
+    D10
+    D11
+    D12
+    D13
+    D14
+    D15
+    D16
+*************************************************************
+
+*************************************************************
 Generating : Top Overlay
       File : PCB_DMEM_Mezzanine.GTO
 
@@ -320,11 +169,161 @@ Used DCodes :
 *************************************************************
 
 *************************************************************
+Generating : Bottom Layer
+      File : PCB_DMEM_Mezzanine.GBL
+
+    Adding Layer      : Bottom Layer
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D13
+    D15
+    D18
+    D19
+    D20
+    D21
+    D22
+    D23
+    D24
+    D25
+    D27
+    D28
+    D29
+    D30
+    D44
+    D48
+    D49
+    D50
+    D51
+    D52
+    D53
+    D54
+    D56
+    D57
+*************************************************************
+
+*************************************************************
+Generating : Layer 4
+      File : PCB_DMEM_Mezzanine.G4
+
+    Adding Layer      : Layer 4
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D15
+    D22
+    D44
+    D51
+    D52
+    D53
+    D54
+    D55
+*************************************************************
+
+*************************************************************
+Generating : Layer 3
+      File : PCB_DMEM_Mezzanine.G3
+
+    Adding Layer      : Layer 3
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D15
+    D22
+    D44
+    D50
+    D51
+    D52
+    D53
+    D55
+*************************************************************
+
+*************************************************************
+Generating : Layer 2
+      File : PCB_DMEM_Mezzanine.G2
+
+    Adding Layer      : Layer 2
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D15
+    D22
+    D44
+    D50
+    D51
+    D52
+    D53
+    D55
+*************************************************************
+
+*************************************************************
+Generating : Layer 1
+      File : PCB_DMEM_Mezzanine.G1
+
+    Adding Layer      : Layer 1
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D15
+    D22
+    D44
+    D51
+    D52
+    D53
+    D54
+    D55
+*************************************************************
+
+*************************************************************
+Generating : Top Layer
+      File : PCB_DMEM_Mezzanine.GTL
+
+    Adding Layer      : Top Layer
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D13
+    D15
+    D18
+    D19
+    D20
+    D21
+    D22
+    D23
+    D24
+    D25
+    D26
+    D27
+    D28
+    D29
+    D30
+    D44
+    D48
+    D49
+    D50
+    D51
+    D52
+    D53
+*************************************************************
+
+*************************************************************
 Generating : Profile
       File : PCB_DMEM_Mezzanine.GM
 
 
 Used DCodes :
-    D61
+    D59
 *************************************************************
 

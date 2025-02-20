@@ -1,7 +1,7 @@
 Protel Design System Design Rule Check
 PCB File : C:\Users\e_cri\OneDrive\Documents\INFN\DMEM\Mezzanine\altium\DMEM_Mezzanine\PCB_DMEM_Mezzanine.PcbDoc
-Date     : 19/2/2025
-Time     : 16:51:22
+Date     : 20/2/2025
+Time     : 15:39:00
 
 Processing Rule : Clearance Constraint (Gap=5mil) (All),(All)
 Rule Violations :0
@@ -155,4 +155,4 @@ Rule Violations :0
 
 Violations Detected : 74
 Waived Violations : 0
-Time Elapsed        : 00:00:01
+Time Elapsed        : 00:00:00

@@ -4,32 +4,28 @@ C:\Users\e_cri\OneDrive\Documents\INFN\DMEM\Mezzanine\altium\DMEM_Mezzanine\Proj
 ========================================================================================================================
 File Design Information:
 
-Date:       19/02/25
-Time:       16:53
-Revision:   ffdfbd7e97bb3abb5a7512662da6a9014d1fdd49
+Date:       20/02/25
+Time:       15:42
+Revision:   1abc46d13aa652f610a389d74823ecfb267753d2
 Variant:    No variations
 Units used: mm
 
 "Designator","Comment","Layer","Footprint","Center-X(mm)","Center-Y(mm)","Rotation","Description"
+"U9","TCA9536DGKR","BottomLayer","SOP65P490X110-8N","3.9370","53.5940","90","Remote 4-Bit IÂ²C and SMBus I/O expander with configuration registers"
 "R53","DNP","TopLayer","RESC1608X55N","43.3070","57.2770","180","0 Ohms Jumper Chip Resistor 0603 (1608 Metric) Automotive AEC-Q200 Thick Film"
 "R52","RMCF0603ZT0R00","TopLayer","RESC1608X55N","43.3070","55.4990","180","0 Ohms Jumper Chip Resistor 0603 (1608 Metric) Automotive AEC-Q200 Thick Film"
 "R51","DNP","TopLayer","RESC1608X55N","48.6410","46.1010","270","0 Ohms Jumper Chip Resistor 0603 (1608 Metric) Automotive AEC-Q200 Thick Film"
 "R50","RMCF0603ZT0R00","TopLayer","RESC1608X55N","49.4030","48.6410","180","0 Ohms Jumper Chip Resistor 0603 (1608 Metric) Automotive AEC-Q200 Thick Film"
 "J1","LSS-130-02-L-DV-A","BottomLayer","LSS-130-XX-XX-DV-A","28.5750","62.4000","180","0.635MM TERMINAL/SOCKET COMB, 60 PINS."
-"U10","SN74LV1T34DBVRG4","BottomLayer","DBV0005A_N","4.1910","50.2920","180","No Description Available"
-"U9","SN74LV1T34DBVRG4","BottomLayer","DBV0005A_N","4.1910","55.8800","180","No Description Available"
-"C38","CC0603KRX7R0BB104","BottomLayer","CAPC1608X09N","1.3970","52.1970","90","0.1 µF ±10% 100V Ceramic Capacitor X7R 0603 (1608 Metric)"
-"C37","CC0603KRX7R0BB104","BottomLayer","CAPC1608X09N","1.3970","57.6580","90","0.1 µF ±10% 100V Ceramic Capacitor X7R 0603 (1608 Metric)"
+"C37","CC0603KRX7R0BB104","BottomLayer","CAPC1608X09N","4.1910","58.4200","180","0.1 µF ±10% 100V Ceramic Capacitor X7R 0603 (1608 Metric)"
 "U8","INA232AIDDFR","BottomLayer","SOT_32AIDDFR_TEX","43.9420","41.5290","270","Current Monitor Regulator High/Low-Side TSOT-23-8"
 "U7","INA232AIDDFR","TopLayer","SOT_32AIDDFR_TEX","44.7040","44.0690","270","Current Monitor Regulator High/Low-Side TSOT-23-8"
 "U6","SN74LVC1G08DCKR","BottomLayer","DCK5","41.7830","48.0060","90","AND Gate IC 1 Channel SC-70-5"
 "U5","SN74LVC1G08DCKR","TopLayer","DCK5","39.8780","47.3710","90","AND Gate IC 1 Channel SC-70-5"
-"R49","RC0603FR-0710KL","BottomLayer","RESC1608X55N","42.0370","38.7350","0","10 kOhms ±1% 0.1W, 1/10W Chip Resistor 0603 (1608 Metric) Moisture Resistant Thick Film"
-"R48","RC0603FR-0710KL","TopLayer","RESC1608X55N","43.1800","41.0210","0","10 kOhms ±1% 0.1W, 1/10W Chip Resistor 0603 (1608 Metric) Moisture Resistant Thick Film"
 "R47","RC0603FR-0710KL","BottomLayer","RESC1608X55N","41.4450","41.3976","90","10 kOhms ±1% 0.1W, 1/10W Chip Resistor 0603 (1608 Metric) Moisture Resistant Thick Film"
 "R46","RC0603FR-0710KL","TopLayer","RESC1608X55N","46.4820","41.0210","0","10 kOhms ±1% 0.1W, 1/10W Chip Resistor 0603 (1608 Metric) Moisture Resistant Thick Film"
-"R45","RMCF0603ZT0R00","TopLayer","RESC1608X55N","45.4660","47.2440","0","0 Ohms Jumper Chip Resistor 0603 (1608 Metric) Automotive AEC-Q200 Thick Film"
-"R44","RMCF0603ZT0R00","BottomLayer","RESC1608X55N","43.3070","44.3230","180","0 Ohms Jumper Chip Resistor 0603 (1608 Metric) Automotive AEC-Q200 Thick Film"
+"R45","ERJ-3BWFR036V","TopLayer","RESC1608X55N","45.4660","47.2440","0","36 mOhms ±1% 0.333W, 1/3W Chip Resistor 0603 (1608 Metric) Automotive AEC-Q200, Current Sense Thick Film"
+"R44","ERJ-3RQFR30V","BottomLayer","RESC1608X55N","43.3070","44.3230","180","300 mOhms ±1% 0.1W, 1/10W Chip Resistor 0603 (1608 Metric) Automotive AEC-Q200 Thick Film"
 "R43","RC0603FR-0710KL","TopLayer","RESC1608X55N","19.6850","65.9130","270","10 kOhms ±1% 0.1W, 1/10W Chip Resistor 0603 (1608 Metric) Moisture Resistant Thick Film"
 "R42","RC0603FR-0710KL","TopLayer","RESC1608X55N","17.9070","65.9130","270","10 kOhms ±1% 0.1W, 1/10W Chip Resistor 0603 (1608 Metric) Moisture Resistant Thick Film"
 "C36","CC0603KRX7R0BB104","TopLayer","CAPC1608X09N","42.1970","46.1733","270","0.1 µF ±10% 100V Ceramic Capacitor X7R 0603 (1608 Metric)"
