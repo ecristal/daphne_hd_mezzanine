@@ -4,13 +4,19 @@ C:\Users\e_cri\OneDrive\Documents\INFN\DMEM\Mezzanine\altium\DMEM_Mezzanine\Proj
 ========================================================================================================================
 File Design Information:
 
-Date:       03/03/25
-Time:       11:15
-Revision:   eed52a87b0a6a1673a5ef52f008f2be35a994865
+Date:       07/03/25
+Time:       13:08
+Revision:   4c162045f025a39b6a227c6dd0b616cd5ed47309
 Variant:    No variations
 Units used: mm
 
 "Designator","Comment","Layer","Footprint","Center-X(mm)","Center-Y(mm)","Rotation","Description"
+"R55","RC0603FR-07100RL","TopLayer","RESC1608X55N","16.8910","69.2150","270","100 Ohms ±1% 0.1W, 1/10W Chip Resistor 0603 (1608 Metric) Moisture Resistant Thick Film"
+"R54","RC0603FR-07100RL","TopLayer","RESC1608X55N","15.1130","67.6910","90","100 Ohms ±1% 0.1W, 1/10W Chip Resistor 0603 (1608 Metric) Moisture Resistant Thick Film"
+"R49","RC0603FR-07100RL","TopLayer","RESC1608X55N","14.7320","60.3250","0","100 Ohms ±1% 0.1W, 1/10W Chip Resistor 0603 (1608 Metric) Moisture Resistant Thick Film"
+"R48","RC0603FR-07100RL","TopLayer","RESC1608X55N","14.9860","62.8650","270","100 Ohms ±1% 0.1W, 1/10W Chip Resistor 0603 (1608 Metric) Moisture Resistant Thick Film"
+"C39","GRM1885C1H101JA01D","TopLayer","CAPC1608X09N","16.5100","62.8650","270","100 pF ±5% 50V Ceramic Capacitor C0G, NP0 0603 (1608 Metric)"
+"C38","GRM1885C1H101JA01D","TopLayer","CAPC1608X09N","18.4150","69.0880","90","100 pF ±5% 50V Ceramic Capacitor C0G, NP0 0603 (1608 Metric)"
 "U9","TCA9536DGKR","BottomLayer","SOP65P490X110-8N","3.9370","53.5940","90","Remote 4-Bit IÂ²C and SMBus I/O expander with configuration registers"
 "R53","DNP","TopLayer","RESC1608X55N","43.3070","57.2770","180","0 Ohms Jumper Chip Resistor 0603 (1608 Metric) Automotive AEC-Q200 Thick Film"
 "R52","RMCF0603ZT0R00","TopLayer","RESC1608X55N","43.3070","55.4990","180","0 Ohms Jumper Chip Resistor 0603 (1608 Metric) Automotive AEC-Q200 Thick Film"
