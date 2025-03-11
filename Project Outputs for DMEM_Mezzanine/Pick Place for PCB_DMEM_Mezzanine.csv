@@ -4,9 +4,9 @@ C:\Users\e_cri\OneDrive\Documents\INFN\DMEM\Mezzanine\altium\DMEM_Mezzanine\Proj
 ========================================================================================================================
 File Design Information:
 
-Date:       07/03/25
-Time:       13:08
-Revision:   4c162045f025a39b6a227c6dd0b616cd5ed47309
+Date:       11/03/25
+Time:       17:29
+Revision:   030e93ca70a209253570f12511075abbd731ea94
 Variant:    No variations
 Units used: mm
 
@@ -41,7 +41,7 @@ Units used: mm
 "C8","CC0603KRX7R0BB104","TopLayer","CAPC1608X09N","21.4630","64.7700","270","0.1 µF ±10% 100V Ceramic Capacitor X7R 0603 (1608 Metric)"
 "C7","C3216X6S2A106K160AC","TopLayer","CAPC3216X190N","23.4950","65.1510","90","10 µF ±10% 100V Ceramic Capacitor X6S 1206 (3216 Metric)"
 "TP7","testPoint_throughHole","TopLayer","testPoint_ThroughHole","54.1020","61.7220","90",""
-"TP6","testPoint_throughHole","TopLayer","testPoint_ThroughHole","37.0840","40.7670","90",""
+"TP6","testPoint_throughHole","TopLayer","testPoint_ThroughHole","37.1856","32.8422","90",""
 "TP5","testPoint_throughHole","TopLayer","testPoint_ThroughHole","38.3032","40.7670","90",""
 "TP4_H","testPoint","TopLayer","testPoint_pad","41.9100","78.1050","90",""
 "TP4_G","testPoint","TopLayer","testPoint_pad","21.7468","67.5749","180",""
@@ -228,13 +228,13 @@ Units used: mm
 "R11_D","RT0603BRD07510RL","TopLayer","RESC1608X55N","51.0310","27.6280","90","510 Ohms ±0.1% 0.1W, 1/10W Chip Resistor 0603 (1608 Metric) Thin Film"
 "R11_C","RT0603BRD07510RL","TopLayer","RESC1608X55N","31.7270","27.6280","90","510 Ohms ±0.1% 0.1W, 1/10W Chip Resistor 0603 (1608 Metric) Thin Film"
 "R11_B","RT0603BRD07510RL","TopLayer","RESC1608X55N","12.4230","27.6280","90","510 Ohms ±0.1% 0.1W, 1/10W Chip Resistor 0603 (1608 Metric) Thin Film"
-"R10_H","RMCF0603ZT0R00","TopLayer","RESC1608X55N","44.5540","75.7610","270","0 Ohms Jumper Chip Resistor 0603 (1608 Metric) Automotive AEC-Q200 Thick Film"
-"R10_G","RMCF0603ZT0R00","TopLayer","RESC1608X55N","23.0450","69.1920","0","0 Ohms Jumper Chip Resistor 0603 (1608 Metric) Automotive AEC-Q200 Thick Film"
-"R10_F","RMCF0603ZT0R00","TopLayer","RESC1608X55N","4.6760","75.7610","270","0 Ohms Jumper Chip Resistor 0603 (1608 Metric) Automotive AEC-Q200 Thick Film"
-"R10_E","RMCF0603ZT0R00","TopLayer","RESC1608X55N","28.2980","55.0720","270","0 Ohms Jumper Chip Resistor 0603 (1608 Metric) Automotive AEC-Q200 Thick Film"
-"R10_D","RMCF0603ZT0R00","TopLayer","RESC1608X55N","43.9190","34.2320","270","0 Ohms Jumper Chip Resistor 0603 (1608 Metric) Automotive AEC-Q200 Thick Film"
-"R10_C","RMCF0603ZT0R00","TopLayer","RESC1608X55N","24.6150","34.2320","270","0 Ohms Jumper Chip Resistor 0603 (1608 Metric) Automotive AEC-Q200 Thick Film"
-"R10_B","RMCF0603ZT0R00","TopLayer","RESC1608X55N","5.3110","34.2320","270","0 Ohms Jumper Chip Resistor 0603 (1608 Metric) Automotive AEC-Q200 Thick Film"
+"R10_H","DNP","TopLayer","RESC1608X55N","44.5540","75.7610","270","0 Ohms Jumper Chip Resistor 0603 (1608 Metric) Automotive AEC-Q200 Thick Film"
+"R10_G","DNP","TopLayer","RESC1608X55N","23.0450","69.1920","0","0 Ohms Jumper Chip Resistor 0603 (1608 Metric) Automotive AEC-Q200 Thick Film"
+"R10_F","DNP","TopLayer","RESC1608X55N","4.6760","75.7610","270","0 Ohms Jumper Chip Resistor 0603 (1608 Metric) Automotive AEC-Q200 Thick Film"
+"R10_E","DNP","TopLayer","RESC1608X55N","28.2980","55.0720","270","0 Ohms Jumper Chip Resistor 0603 (1608 Metric) Automotive AEC-Q200 Thick Film"
+"R10_D","DNP","TopLayer","RESC1608X55N","43.9190","34.2320","270","0 Ohms Jumper Chip Resistor 0603 (1608 Metric) Automotive AEC-Q200 Thick Film"
+"R10_C","DNP","TopLayer","RESC1608X55N","24.6150","34.2320","270","0 Ohms Jumper Chip Resistor 0603 (1608 Metric) Automotive AEC-Q200 Thick Film"
+"R10_B","DNP","TopLayer","RESC1608X55N","5.3110","34.2320","270","0 Ohms Jumper Chip Resistor 0603 (1608 Metric) Automotive AEC-Q200 Thick Film"
 "R9_H","RMCF0603ZT0R00","TopLayer","RESC1608X55N","46.3320","75.7610","270","0 Ohms Jumper Chip Resistor 0603 (1608 Metric) Automotive AEC-Q200 Thick Film"
 "R9_G","RMCF0603ZT0R00","TopLayer","RESC1608X55N","23.0450","70.9700","0","0 Ohms Jumper Chip Resistor 0603 (1608 Metric) Automotive AEC-Q200 Thick Film"
 "R9_F","RMCF0603ZT0R00","TopLayer","RESC1608X55N","6.4540","75.7610","270","0 Ohms Jumper Chip Resistor 0603 (1608 Metric) Automotive AEC-Q200 Thick Film"
@@ -412,7 +412,7 @@ Units used: mm
 "R13_A","RT0603BRD071KL","BottomLayer","RESC1608X55N","11.6840","52.9590","90","1 kOhms ±0.1% 0.1W, 1/10W Chip Resistor 0603 (1608 Metric) Thin Film"
 "R12_A","RT0603BRD071KL","BottomLayer","RESC1608X55N","11.5570","45.4660","90","1 kOhms ±0.1% 0.1W, 1/10W Chip Resistor 0603 (1608 Metric) Thin Film"
 "R11_A","RT0603BRD07510RL","TopLayer","RESC1608X55N","19.1540","48.4560","90","510 Ohms ±0.1% 0.1W, 1/10W Chip Resistor 0603 (1608 Metric) Thin Film"
-"R10_A","RMCF0603ZT0R00","TopLayer","RESC1608X55N","12.0420","55.0600","270","0 Ohms Jumper Chip Resistor 0603 (1608 Metric) Automotive AEC-Q200 Thick Film"
+"R10_A","DNP","TopLayer","RESC1608X55N","12.0420","55.0600","270","0 Ohms Jumper Chip Resistor 0603 (1608 Metric) Automotive AEC-Q200 Thick Film"
 "R9_A","RMCF0603ZT0R00","TopLayer","RESC1608X55N","13.8200","55.0600","270","0 Ohms Jumper Chip Resistor 0603 (1608 Metric) Automotive AEC-Q200 Thick Film"
 "R8_A","RT0603BRD071KL","BottomLayer","RESC1608X55N","9.9060","52.9590","90","1 kOhms ±0.1% 0.1W, 1/10W Chip Resistor 0603 (1608 Metric) Thin Film"
 "R7_A","RT0603BRD071KL","BottomLayer","RESC1608X55N","9.7790","45.4660","90","1 kOhms ±0.1% 0.1W, 1/10W Chip Resistor 0603 (1608 Metric) Thin Film"

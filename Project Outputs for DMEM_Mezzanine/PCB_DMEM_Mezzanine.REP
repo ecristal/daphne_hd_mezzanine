@@ -19,25 +19,26 @@ Generating : Bottom Paste
 
     Adding Layer      : Bottom Paste
 
-    Adding Layer      : Bottom Layer
+    Adding Layer      : Bottom Layer - Signal
 
     Adding Layer      : Multi-Layer
 
 
 Used DCodes :
-    D19
-    D20
     D21
     D22
     D23
     D24
-    D25
+    D26
     D27
-    D29
+    D28
     D30
     D31
-    D57
-    D58
+    D32
+    D33
+    D34
+    D59
+    D60
 *************************************************************
 
 *************************************************************
@@ -46,7 +47,7 @@ Generating : Top Paste
 
     Adding Layer      : Top Paste
 
-    Adding Layer      : Top Layer
+    Adding Layer      : Top Layer - Signal
 
     Adding Layer      : Multi-Layer
 
@@ -65,6 +66,8 @@ Used DCodes :
     D29
     D30
     D31
+    D32
+    D33
 *************************************************************
 
 *************************************************************
@@ -73,16 +76,14 @@ Generating : Bottom Solder
 
     Adding Layer      : Bottom Solder
 
-    Adding Layer      : Bottom Layer
+    Adding Layer      : Bottom Layer - Signal
 
     Adding Layer      : Multi-Layer
 
 
 Used DCodes :
-    D22
-    D26
-    D32
-    D33
+    D21
+    D25
     D34
     D35
     D36
@@ -90,14 +91,17 @@ Used DCodes :
     D38
     D39
     D40
+    D41
     D42
-    D43
     D44
     D45
     D46
     D47
     D48
-    D59
+    D49
+    D50
+    D51
+    D63
 *************************************************************
 
 *************************************************************
@@ -106,16 +110,14 @@ Generating : Top Solder
 
     Adding Layer      : Top Solder
 
-    Adding Layer      : Top Layer
+    Adding Layer      : Top Layer - Signal
 
     Adding Layer      : Multi-Layer
 
 
 Used DCodes :
-    D22
-    D26
-    D32
-    D33
+    D21
+    D25
     D34
     D35
     D36
@@ -131,6 +133,9 @@ Used DCodes :
     D46
     D47
     D48
+    D49
+    D50
+    D51
 *************************************************************
 
 *************************************************************
@@ -170,10 +175,10 @@ Used DCodes :
 *************************************************************
 
 *************************************************************
-Generating : Bottom Layer
+Generating : Bottom Layer - Signal
       File : PCB_DMEM_Mezzanine.GBL
 
-    Adding Layer      : Bottom Layer
+    Adding Layer      : Bottom Layer - Signal
 
     Adding Layer      : Multi-Layer
 
@@ -181,7 +186,6 @@ Generating : Bottom Layer
 Used DCodes :
     D13
     D15
-    D19
     D20
     D21
     D22
@@ -190,106 +194,107 @@ Used DCodes :
     D25
     D26
     D27
-    D29
+    D28
     D30
     D31
-    D45
-    D49
-    D50
-    D51
+    D32
+    D33
+    D48
     D52
     D53
     D54
     D55
+    D56
+    D57
+    D59
+    D60
+    D61
+    D62
+*************************************************************
+
+*************************************************************
+Generating : AGND-D.Sig.
+      File : PCB_DMEM_Mezzanine.G4
+
+    Adding Layer      : AGND-D.Sig.
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D15
+    D25
+    D48
+    D54
+    D55
+    D56
     D57
     D58
 *************************************************************
 
 *************************************************************
-Generating : Layer 4
-      File : PCB_DMEM_Mezzanine.G4
-
-    Adding Layer      : Layer 4
-
-    Adding Layer      : Multi-Layer
-
-
-Used DCodes :
-    D15
-    D26
-    D45
-    D52
-    D53
-    D54
-    D55
-    D56
-*************************************************************
-
-*************************************************************
-Generating : Layer 3
+Generating : Power-GND
       File : PCB_DMEM_Mezzanine.G3
 
-    Adding Layer      : Layer 3
+    Adding Layer      : Power-GND
 
     Adding Layer      : Multi-Layer
 
 
 Used DCodes :
     D15
-    D26
-    D45
-    D51
-    D52
-    D53
-    D54
-    D56
-*************************************************************
-
-*************************************************************
-Generating : Layer 2
-      File : PCB_DMEM_Mezzanine.G2
-
-    Adding Layer      : Layer 2
-
-    Adding Layer      : Multi-Layer
-
-
-Used DCodes :
-    D15
-    D26
-    D45
-    D51
-    D52
-    D53
-    D54
-    D56
-*************************************************************
-
-*************************************************************
-Generating : Layer 1
-      File : PCB_DMEM_Mezzanine.G1
-
-    Adding Layer      : Layer 1
-
-    Adding Layer      : Multi-Layer
-
-
-Used DCodes :
-    D15
-    D26
-    D45
-    D52
-    D53
+    D25
+    D48
     D54
     D55
     D56
+    D57
+    D58
 *************************************************************
 
 *************************************************************
-Generating : Top Layer
+Generating : Int. Signal
+      File : PCB_DMEM_Mezzanine.G2
+
+    Adding Layer      : Int. Signal
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D15
+    D25
+    D48
+    D54
+    D55
+    D56
+    D57
+    D58
+*************************************************************
+
+*************************************************************
+Generating : AGND-L1
+      File : PCB_DMEM_Mezzanine.G1
+
+    Adding Layer      : AGND-L1
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D25
+    D48
+    D55
+    D56
+    D57
+    D58
+*************************************************************
+
+*************************************************************
+Generating : Top Layer - Signal
       File : PCB_DMEM_Mezzanine.GTL
 
-    Adding Layer      : Top Layer
+    Adding Layer      : Top Layer - Signal
 
     Adding Layer      : Multi-Layer
 
@@ -297,7 +302,6 @@ Generating : Top Layer
 Used DCodes :
     D13
     D15
-    D19
     D20
     D21
     D22
@@ -310,13 +314,15 @@ Used DCodes :
     D29
     D30
     D31
-    D45
-    D49
-    D50
-    D51
+    D32
+    D33
+    D48
     D52
     D53
     D54
+    D55
+    D56
+    D57
 *************************************************************
 
 *************************************************************
@@ -325,6 +331,6 @@ Generating : Profile
 
 
 Used DCodes :
-    D60
+    D64
 *************************************************************
 
