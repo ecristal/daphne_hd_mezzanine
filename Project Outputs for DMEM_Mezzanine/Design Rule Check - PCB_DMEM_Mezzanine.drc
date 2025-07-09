@@ -1,7 +1,7 @@
 Protel Design System Design Rule Check
 PCB File : C:\Users\e_cri\OneDrive\Documents\INFN\DMEM\Mezzanine\altium\DMEM_Mezzanine\PCB_DMEM_Mezzanine.PcbDoc
-Date     : 11/3/2025
-Time     : 17:26:40
+Date     : 9/7/2025
+Time     : 15:59:43
 
 Processing Rule : Clearance Constraint (Gap=5mil) (All),(All)
 Rule Violations :0
@@ -34,7 +34,7 @@ Processing Rule : Hole To Hole Clearance (Gap=10mil) (All),(All)
 Rule Violations :0
 
 Processing Rule : Minimum Solder Mask Sliver (Gap=1mil) (All),(All)
-   Violation between Minimum Solder Mask Sliver Constraint: (0.403mil < 1mil) Between Pad C7-1(925mil,2512.402mil) on Top Layer - Signal And Via (928.695mil,2465.652mil) from Top Layer - Signal to Bottom Layer - Signal [Top Solder] Mask Sliver [0.403mil]
+   Violation between Minimum Solder Mask Sliver Constraint: (0.315mil < 1mil) Between Pad R11_C-1(1249.095mil,1055.433mil) on Top Layer - Signal And Via (1212.5mil,1035mil) from Top Layer - Signal to Bottom Layer - Signal [Top Solder] Mask Sliver [0.315mil]
    Violation between Minimum Solder Mask Sliver Constraint: (0.445mil < 1mil) Between Pad R18_A-2(602.284mil,2175.433mil) on Bottom Layer - Signal And Via (635mil,2205mil) from Top Layer - Signal to Bottom Layer - Signal [Bottom Solder] Mask Sliver [0.446mil]
    Violation between Minimum Solder Mask Sliver Constraint: (0.445mil < 1mil) Between Pad R18_B-2(337.284mil,1355.433mil) on Bottom Layer - Signal And Via (370mil,1385mil) from Top Layer - Signal to Bottom Layer - Signal [Bottom Solder] Mask Sliver [0.446mil]
    Violation between Minimum Solder Mask Sliver Constraint: (0.445mil < 1mil) Between Pad R18_C-2(1097.284mil,1355.433mil) on Bottom Layer - Signal And Via (1130mil,1385mil) from Top Layer - Signal to Bottom Layer - Signal [Bottom Solder] Mask Sliver [0.446mil]
@@ -43,6 +43,8 @@ Processing Rule : Minimum Solder Mask Sliver (Gap=1mil) (All),(All)
    Violation between Minimum Solder Mask Sliver Constraint: (0.445mil < 1mil) Between Pad R18_F-2(312.284mil,2990.433mil) on Bottom Layer - Signal And Via (345mil,3020mil) from Top Layer - Signal to Bottom Layer - Signal [Bottom Solder] Mask Sliver [0.446mil]
    Violation between Minimum Solder Mask Sliver Constraint: (0.446mil < 1mil) Between Pad R18_G-2(899.567mil,2852.284mil) on Bottom Layer - Signal And Via (870mil,2885mil) from Top Layer - Signal to Bottom Layer - Signal [Bottom Solder] Mask Sliver [0.446mil]
    Violation between Minimum Solder Mask Sliver Constraint: (0.445mil < 1mil) Between Pad R18_H-2(1882.284mil,2990.433mil) on Bottom Layer - Signal And Via (1915mil,3020mil) from Top Layer - Signal to Bottom Layer - Signal [Bottom Solder] Mask Sliver [0.446mil]
+   Violation between Minimum Solder Mask Sliver Constraint: (0.504mil < 1mil) Between Pad R19_F-2(236.811mil,2465.433mil) on Bottom Layer - Signal And Via (200mil,2460mil) from Top Layer - Signal to Bottom Layer - Signal [Bottom Solder] Mask Sliver [0.504mil]
+   Violation between Minimum Solder Mask Sliver Constraint: (0.541mil < 1mil) Between Pad TP4_F-0(80mil,3075mil) on Top Layer - Signal And Via (50mil,3060mil) from Top Layer - Signal to Bottom Layer - Signal [Top Solder] Mask Sliver [0.541mil]
    Violation between Minimum Solder Mask Sliver Constraint: (0.661mil < 1mil) Between Pad U1_A-8(687.48mil,1946.024mil) on Top Layer - Signal And Via (715mil,1935mil) from Top Layer - Signal to Bottom Layer - Signal [Top Solder] Mask Sliver [0.661mil]
    Violation between Minimum Solder Mask Sliver Constraint: (0.661mil < 1mil) Between Pad U1_A-8(687.48mil,1946.024mil) on Top Layer - Signal And Via (715mil,1965mil) from Top Layer - Signal to Bottom Layer - Signal [Top Solder] Mask Sliver [0.661mil]
    Violation between Minimum Solder Mask Sliver Constraint: (0.661mil < 1mil) Between Pad U1_B-8(422.48mil,1126.024mil) on Top Layer - Signal And Via (450mil,1115mil) from Top Layer - Signal to Bottom Layer - Signal [Top Solder] Mask Sliver [0.661mil]
@@ -61,7 +63,10 @@ Processing Rule : Minimum Solder Mask Sliver (Gap=1mil) (All),(All)
    Violation between Minimum Solder Mask Sliver Constraint: (0.661mil < 1mil) Between Pad U1_H-8(1967.48mil,2761.024mil) on Top Layer - Signal And Via (1995mil,2785mil) from Top Layer - Signal to Bottom Layer - Signal [Top Solder] Mask Sliver [0.661mil]
    Violation between Minimum Solder Mask Sliver Constraint: (0.284mil < 1mil) Between Via (1844.861mil,1534.861mil) from Top Layer - Signal to Bottom Layer - Signal And Via (1864.861mil,1514.861mil) from Top Layer - Signal to Bottom Layer - Signal [Top Solder] Mask Sliver [0.284mil] / [Bottom Solder] Mask Sliver [0.284mil]
    Violation between Minimum Solder Mask Sliver Constraint: (0.284mil < 1mil) Between Via (1864.861mil,1514.861mil) from Top Layer - Signal to Bottom Layer - Signal And Via (1884.861mil,1494.861mil) from Top Layer - Signal to Bottom Layer - Signal [Top Solder] Mask Sliver [0.284mil] / [Bottom Solder] Mask Sliver [0.284mil]
-Rule Violations :27
+   Violation between Minimum Solder Mask Sliver Constraint: (0.844mil < 1mil) Between Via (636mil,2300mil) from Top Layer - Signal to Bottom Layer - Signal And Via (652mil,2324mil) from Top Layer - Signal to Bottom Layer - Signal [Top Solder] Mask Sliver [0.844mil] / [Bottom Solder] Mask Sliver [0.844mil]
+   Violation between Minimum Solder Mask Sliver Constraint: (0.302mil < 1mil) Between Via (652mil,2324mil) from Top Layer - Signal to Bottom Layer - Signal And Via (667mil,2300mil) from Top Layer - Signal to Bottom Layer - Signal [Top Solder] Mask Sliver [0.302mil] / [Bottom Solder] Mask Sliver [0.302mil]
+   Violation between Minimum Solder Mask Sliver Constraint: (0.284mil < 1mil) Between Via (960mil,2455mil) from Top Layer - Signal to Bottom Layer - Signal And Via (980mil,2475mil) from Top Layer - Signal to Bottom Layer - Signal [Top Solder] Mask Sliver [0.284mil] / [Bottom Solder] Mask Sliver [0.284mil]
+Rule Violations :32
 
 Processing Rule : Silk To Solder Mask (Clearance=1mil) (IsPad),(All)
    Violation between Silk To Solder Mask Clearance Constraint: (0.828mil < 1mil) Between Pad C13_C-1(1037.756mil,1297.716mil) on Bottom Layer - Signal And Track (1002.243mil,1314.667mil)(1012.243mil,1314.667mil) on Bottom Overlay [Bottom Overlay] to [Bottom Solder] clearance [0.828mil]
@@ -112,40 +117,40 @@ Rule Violations :0
 Processing Rule : Net Antennae (Tolerance=0mil) (All)
 Rule Violations :0
 
+Processing Rule : Room Regulator_CE (Bounding Region = (4508.504mil, 3643.898mil, 4989.918mil, 3943.898mil) (InComponentClass('Room Definition1'))
+Rule Violations :0
+
 Processing Rule : Room B (Bounding Region = (2860mil, 2325mil, 3470mil, 3095mil) (InComponentClass('B'))
-Rule Violations :0
-
-Processing Rule : Room A (Bounding Region = (3125mil, 3145mil, 3735mil, 3915mil) (InComponentClass('A'))
-Rule Violations :0
-
-Processing Rule : Room D (Bounding Region = (4380mil, 2325mil, 4990mil, 3095mil) (InComponentClass('D'))
 Rule Violations :0
 
 Processing Rule : Room Regulator_5V (Bounding Region = (4511.496mil, 3473.898mil, 4992.91mil, 3773.898mil) (InComponentClass('Room Definition2'))
 Rule Violations :0
 
-Processing Rule : Room Regulator_CE (Bounding Region = (4508.504mil, 3643.898mil, 4989.918mil, 3943.898mil) (InComponentClass('Room Definition1'))
-Rule Violations :0
-
-Processing Rule : Room G (Bounding Region = (3550mil, 4185mil, 4320mil, 4775mil) (InComponentClass('G'))
-Rule Violations :0
-
-Processing Rule : Room C (Bounding Region = (3620mil, 2325mil, 4230mil, 3095mil) (InComponentClass('C'))
-Rule Violations :0
-
-Processing Rule : Room H (Bounding Region = (4405mil, 3960mil, 5015mil, 4730mil) (InComponentClass('H'))
+Processing Rule : Room D (Bounding Region = (4380mil, 2325mil, 4990mil, 3095mil) (InComponentClass('D'))
 Rule Violations :0
 
 Processing Rule : Room E (Bounding Region = (3765mil, 3145.472mil, 4375mil, 3915.472mil) (InComponentClass('E'))
 Rule Violations :0
 
+Processing Rule : Room H (Bounding Region = (4405mil, 3960mil, 5015mil, 4730mil) (InComponentClass('H'))
+Rule Violations :0
+
+Processing Rule : Room G (Bounding Region = (3550mil, 4185mil, 4320mil, 4775mil) (InComponentClass('G'))
+Rule Violations :0
+
 Processing Rule : Room F (Bounding Region = (2835mil, 3960mil, 3445mil, 4730mil) (InComponentClass('F'))
+Rule Violations :0
+
+Processing Rule : Room C (Bounding Region = (3620mil, 2325mil, 4230mil, 3095mil) (InComponentClass('C'))
+Rule Violations :0
+
+Processing Rule : Room A (Bounding Region = (3125mil, 3145mil, 3735mil, 3915mil) (InComponentClass('A'))
 Rule Violations :0
 
 Processing Rule : Height Constraint (Min=0mil) (Max=5000mil) (Prefered=500mil) (All)
 Rule Violations :0
 
 
-Violations Detected : 67
+Violations Detected : 72
 Waived Violations : 0
-Time Elapsed        : 00:00:00
+Time Elapsed        : 00:00:01
