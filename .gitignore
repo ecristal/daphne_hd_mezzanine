@@ -2,15 +2,20 @@
 History/
 Documents/
 production/
-"Project Logs for DMEM_Mezzanine"/
+Project Logs for DMEM_Mezzanine/
+Project Outputs for DMEM_Mezzanine/
+Project Outputs for DMEM_Mezzanine_2V0/
 __Previews/
+
 # Ignored extensions
 *.zip
+*.7z
 *.log
 *.lck
 *.tmp
 *.xml
 *auto*
 
-# ignoring cache
+# Ignoring cache
+*-cache/
 *-cache
