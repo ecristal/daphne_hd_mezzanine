@@ -1,12 +1,12 @@
 Protel Design System Design Rule Check
 PCB File : C:\Users\e_cri\OneDrive\Documents\INFN\DMEM\Mezzanine\altium\DMEM_Mezzanine\PCB_DMEM_Mezzanine.PcbDoc
-Date     : 27/5/2026
-Time     : 12:08:49
+Date     : 28/5/2026
+Time     : 11:33:24
 
-Processing Rule : Clearance Constraint (Gap=20mil) (IsThruPin And InComponent('J2') And InPadClass('HV_PADS-J2')),(OnTopLayer or OnBottomLayer)
+Processing Rule : Clearance Constraint (Gap=24mil) (IsThruPin And InComponent('J2') And InPadClass('HV_PADS-J2')),(OnTopLayer or OnBottomLayer)
 Rule Violations :0
 
-Processing Rule : Clearance Constraint (Gap=20mil) (IsPad  And InComponent('R7_*','R8_*','R12_*','R13_*','C10_*','C11_*','C1_*','C2_*','C9_*','C12_*') And WithinRoom('A','B','C','D','E','F','G','H')),(All)
+Processing Rule : Clearance Constraint (Gap=24mil) (IsPad  And InComponent('R7_*','R8_*','R12_*','R13_*','C10_*','C11_*','C1_*','C2_*','C9_*','C12_*') And WithinRoom('A','B','C','D','E','F','G','H') And Not InPadClass('HV_EXCLUDED_PADS')),(All)
 Rule Violations :0
 
 Processing Rule : Clearance Constraint (Gap=5mil) (All),(All)
@@ -90,4 +90,4 @@ Rule Violations :0
 
 Violations Detected : 0
 Waived Violations : 0
-Time Elapsed        : 00:00:01
+Time Elapsed        : 00:00:00
